@@ -1,4 +1,3 @@
-# AnwarMendez
 <h1 align="center">Hi 👋, I'm Anwar Mendez</h1>
 <h3 align="center">A passionate software engineer in Washington DC</h3>
 
