@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anwar Mendez</h1>
 <h3 align="center">A passionate software engineer in Washington DC</h3>
 
-<p align="center">- 👨‍💻 All of my projects are available at [https://anwarmendez.netlify.app/](https://anwarmendez.netlify.app/)</p>
+<p align="center">- 👨‍💻 All of my projects are available at [https://anwarmendez.netlify.app/] (https://anwarmendez.netlify.app/)</p>
 
 <p align="center">- 📫 How to reach me **anwar.mendez@gmail.com**</p>
 
